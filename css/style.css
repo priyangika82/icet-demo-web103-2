@@ -1,0 +1,26 @@
+input{
+    background-color: red;
+     color: blue;padding: 10px; 
+      background-color:
+blue;
+border-radius:100px
+}
+
+.input{
+    border-radius: 100px;
+    padding: 10px;
+    background-color: rgb(30, 255, 0);
+    border-color: blue;
+     
+
+
+}
+
+#btn{
+    background-color: red;
+    padding: 10px;
+    border-radius: 100px;
+    color: white;
+
+
+}
